@@ -1,2 +1,2 @@
  ```bash
-https://github.com/Paul-1511/Ask.git
+git clone https://github.com/Paul-1511/Ask.git
